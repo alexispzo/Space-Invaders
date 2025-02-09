@@ -1,5 +1,7 @@
 File Objectives: Game description and implemented features
+
 Completion Date: 13/11/2023
+
 Authors: BEN-AMMAR Kenzi / BALLAND Alexis
 
 Introduction : 
@@ -21,5 +23,3 @@ Implementations:
 - Multiple aliens capable of moving and shooting downward
 
 
-
-![alt text](image.png)
