@@ -1,8 +1,7 @@
-#--------------------------------------------------------------------------------------------------------
-    File Objectives: Game description and implemented features
-    Completion Date: 13/11/2023
-    Authors: BEN-AMMAR Kenzi / BALLAND Alexis
-#--------------------------------------------------------------------------------------------------------
+File Objectives: Game description and implemented features
+Completion Date: 13/11/2023
+Authors: BEN-AMMAR Kenzi / BALLAND Alexis
+
 Introduction : 
     This project is a recreation of the well-known game Space Invaders using the graphical libraries Tkinter and PIL.
 Game Rules:
